@@ -1,0 +1,86 @@
+; structure creation     : 14/4/2016 (16:52:12)
+; structure modification : 14/4/2016 (16:52:12)
+; structure name : cap3p.gex
+L 7
+B -4 -4 154 131
+B -4 145 154 280
+B 140 280 142 286
+L 12
+B 0 127 150 149
+B 0 0 150 131
+B -4 280 154 286
+B 0 145 150 276
+B -4 -10 104 -4
+B -14 -10 -4 286
+L 14
+B 0 123 150 153
+C 140 138 1 1 0 m1m2_via.gex
+C 132 138 1 1 0 m1m2_via.gex
+C 124 138 1 1 0 m1m2_via.gex
+C 116 138 1 1 0 m1m2_via.gex
+C 108 138 1 1 0 m1m2_via.gex
+C 100 138 1 1 0 m1m2_via.gex
+C 92 138 1 1 0 m1m2_via.gex
+C 84 138 1 1 0 m1m2_via.gex
+C 76 138 1 1 0 m1m2_via.gex
+C 68 138 1 1 0 m1m2_via.gex
+C 60 138 1 1 0 m1m2_via.gex
+C 52 138 1 1 0 m1m2_via.gex
+C 44 138 1 1 0 m1m2_via.gex
+C 36 138 1 1 0 m1m2_via.gex
+C 28 138 1 1 0 m1m2_via.gex
+C 20 138 1 1 0 m1m2_via.gex
+C 12 138 1 1 0 m1m2_via.gex
+C 4 138 1 1 0 m1m2_via.gex
+C 149 -7 1 1 0 poly_via.gex
+C 143 -7 1 1 0 poly_via.gex
+C 137 -7 1 1 0 poly_via.gex
+C 131 -7 1 1 0 poly_via.gex
+C 125 -7 1 1 0 poly_via.gex
+C 119 -7 1 1 0 poly_via.gex
+C 113 -7 1 1 0 poly_via.gex
+C 107 -7 1 1 0 poly_via.gex
+C 137 283 1 1 0 poly_via.gex
+C 131 283 1 1 0 poly_via.gex
+C 125 283 1 1 0 poly_via.gex
+C 119 283 1 1 0 poly_via.gex
+C 113 283 1 1 0 poly_via.gex
+C 107 283 1 1 0 poly_via.gex
+C 101 283 1 1 0 poly_via.gex
+C 95 283 1 1 0 poly_via.gex
+C 151 283 1 1 0 poly_via.gex
+C 145 283 1 1 0 poly_via.gex
+C 89 283 1 1 0 poly_via.gex
+C 83 283 1 1 0 poly_via.gex
+C 77 283 1 1 0 poly_via.gex
+C 71 283 1 1 0 poly_via.gex
+C 65 283 1 1 0 poly_via.gex
+C 59 283 1 1 0 poly_via.gex
+C 53 283 1 1 0 poly_via.gex
+C 47 283 1 1 0 poly_via.gex
+C 41 283 1 1 0 poly_via.gex
+C 35 283 1 1 0 poly_via.gex
+C 29 283 1 1 0 poly_via.gex
+C 23 283 1 1 0 poly_via.gex
+C 17 283 1 1 0 poly_via.gex
+C 11 283 1 1 0 poly_via.gex
+C 5 283 1 1 0 poly_via.gex
+C -1 283 1 1 0 poly_via.gex
+C 101 -7 1 1 0 poly_via.gex
+C 95 -7 1 1 0 poly_via.gex
+C 89 -7 1 1 0 poly_via.gex
+C 83 -7 1 1 0 poly_via.gex
+C 77 -7 1 1 0 poly_via.gex
+C 71 -7 1 1 0 poly_via.gex
+C 65 -7 1 1 0 poly_via.gex
+C 59 -7 1 1 0 poly_via.gex
+C 53 -7 1 1 0 poly_via.gex
+C 47 -7 1 1 0 poly_via.gex
+C 41 -7 1 1 0 poly_via.gex
+C 35 -7 1 1 0 poly_via.gex
+C 29 -7 1 1 0 poly_via.gex
+C 23 -7 1 1 0 poly_via.gex
+C 17 -7 1 1 0 poly_via.gex
+C 11 -7 1 1 0 poly_via.gex
+C 5 -7 1 1 0 poly_via.gex
+C -1 -7 1 1 0 poly_via.gex

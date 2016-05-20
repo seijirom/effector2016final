@@ -1,0 +1,59 @@
+; structure creation     : 29/5/2015 (11:22:24)
+; structure modification : 29/5/2015 (11:22:24)
+; structure name : blk3_2.gex
+L 7
+B 140 60 150 66
+B 123 60 129 66
+B 84 60 98 66
+B 40 60 77 66
+B 15 60 25 66
+L 12
+B 99 78 146 84
+B 140 66 146 78
+B 151 55 157 84
+B 130 55 136 66
+B 135 5 146 55
+B 119 0 125 5
+B 109 0 115 5
+B 109 0 125 55
+B 99 55 105 78
+B 21 78 92 84
+B 84 66 92 78
+B 42 60 77 66
+B 32 55 42 66
+B 46 0 72 55
+B 82 5 88 55
+B 67 0 73 5
+B 57 0 63 5
+B 31 5 36 55
+B 46 0 52 5
+B 15 55 21 84
+B 5 0 11 5
+L 14
+B 69 66 123 74
+C 143 63 1 1 0 poly_via.gex
+C 132 70 1 1 0 m1m2_via.gex
+C 135 0 1 1 0 nch3x50.gex
+C 83 0 1 1 0 nch3x50.gex
+C 104 0 1 1 0 GTAP.gex
+C 104 16 1 1 0 GTAP.gex
+C 114 0 1 1 0 nch3x50.gex
+C 115 63 1 1 0 poly_via.gex
+C 120 63 1 1 0 poly_via.gex
+C 119 70 1 1 0 m1m2_via.gex
+C 87 63 1 1 0 poly_via.gex
+C 91 63 1 1 0 poly_via.gex
+C 43 63 1 1 0 poly_via.gex
+C 49 63 1 1 0 poly_via.gex
+C 70 63 1 1 0 poly_via.gex
+C 74 63 1 1 0 poly_via.gex
+C 73 70 1 1 0 m1m2_via.gex
+C 31 0 1 1 0 nch3x50.gex
+C 52 0 1 1 0 GTAP.gex
+C 52 16 1 1 0 GTAP.gex
+C 62 0 1 1 0 nch3x50.gex
+C 18 63 1 1 0 poly_via.gex
+C 22 63 1 1 0 poly_via.gex
+C 10 0 1 1 0 nch3x50.gex
+C 0 0 1 1 0 GTAP.gex
+C 0 16 1 1 0 GTAP.gex

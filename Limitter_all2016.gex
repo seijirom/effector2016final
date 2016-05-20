@@ -1,0 +1,113 @@
+; structure creation     : 14/4/2016 (14:48:27)
+; structure modification : 14/4/2016 (14:48:27)
+; structure name : Limitter_all2016.gex
+L 2
+B 188 302 192 318
+L 3
+B 190 303 202 316
+L 4
+B 193 300 199 313
+L 9
+B 191 302 201 315
+L 10
+B 195 309 197 311
+B 195 304 197 306
+B 195 300 197 302
+L 12
+B 201 201 265 207
+B 193 280 199 313
+B 33 308 179 320
+B 189 10 291 14
+B 162 10 170 46
+B 81 10 132 14
+B 33 10 81 20
+B 0 0 300 10
+B 177 24 199 30
+B 158 52 189 60
+B 176 84 184 134
+B 168 178 219 184
+B 184 126 201 134
+B 167 140 187 156
+B 158 167 176 174
+B 132 204 201 212
+B 179 234 187 320
+B 158 244 173 250
+B 168 174 176 178
+B 0 320 300 330
+B 164 224 173 244
+B 193 229 199 250
+B 164 218 231 224
+B 249 101 255 112
+B 255 101 308 107
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+L 14
+B -20 58 -10 266
+B -10 58 13 74
+B -10 152 13 168
+B -10 250 13 266
+B 176 46 184 68
+B 93 16 185 24
+B 85 16 93 24
+B 222 191 300 199
+B 85 112 209 120
+B 193 126 201 196
+B 179 140 187 250
+B 193 212 201 229
+B 300 94 308 199
+B 226 199 242 212
+B 93 298 219 306
+B 273 88 308 96
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+C 244 196 1 1 1 GTAP.gex
+C 272 196 1 1 1 GTAP.gex
+C 304 196 1 1 1 GTAP.gex
+C 169 201 1 1 1 GTAP.gex
+C 137 201 1 1 1 GTAP.gex
+C 188 245 1 1 0 GTAP.gex
+C 188 261 1 1 0 GTAP.gex
+C 236 302 1 1 1 GTAP.gex
+C 181 18 1 1 0 m1m2_via.gex
+C 172 42 1 1 0 m1m2_via.gex
+C 180 42 1 1 0 m1m2_via.gex
+C 180 72 1 1 0 m1m2_via.gex
+C 180 80 1 1 0 m1m2_via.gex
+C 89 36 1 1 0 m1m2_via.gex
+C 181 26 1 1 0 m1m2_via.gex
+C 226 188 1 1 0 m1m2_via.gex
+C 234 188 1 1 0 m1m2_via.gex
+C 89 28 1 1 0 m1m2_via.gex
+C 208 201 1 1 4 Limitter2.gex
+C 180 8 1 1 0 Limitter3.gex
+C 197 138 1 1 0 m1m2_via.gex
+C 197 130 1 1 0 m1m2_via.gex
+C 183 152 1 1 0 m1m2_via.gex
+C 183 144 1 1 0 m1m2_via.gex
+C 97 212 1 1 2 SW1.gex
+C 197 200 1 1 0 m1m2_via.gex
+C 97 124 1 1 0 m1m2_via.gex
+C 89 124 1 1 0 m1m2_via.gex
+C 197 208 1 1 0 m1m2_via.gex
+C 183 246 1 1 0 m1m2_via.gex
+C 183 238 1 1 0 m1m2_via.gex
+C 97 294 1 1 0 m1m2_via.gex
+C 89 294 1 1 0 m1m2_via.gex
+C 97 206 1 1 6 SW1.gex
+C 97 14 1 1 6 SW1.gex
+C 220 208 1 1 0 Limitter1.gex
+C 230 216 1 1 0 m1m2_via.gex
+C 238 216 1 1 0 m1m2_via.gex
+C 300 302 1 1 1 GTAP.gex
+C 268 302 1 1 1 GTAP.gex
+C 197 241 1 1 0 m1m2_via.gex
+C 197 233 1 1 0 m1m2_via.gex
+C 215 289 1 1 0 m1m2_via.gex
+C 215 297 1 1 0 m1m2_via.gex
+C 269 92 1 1 0 m1m2_via.gex
+C 277 92 1 1 0 m1m2_via.gex

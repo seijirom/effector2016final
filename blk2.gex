@@ -1,0 +1,26 @@
+; structure creation     : 14/4/2016 (14:37:18)
+; structure modification : 14/4/2016 (14:37:18)
+; structure name : blk2.gex
+L 12
+B 179 109 209 115
+B 252 83 257 99
+B 45 99 51 109
+B 25 109 51 115
+B -9 99 -3 109
+B 81 104 89 132
+B 119 99 125 109
+B 119 109 145 115
+B 173 99 179 109
+B 156 14 185 20
+L 14
+B 257 99 265 132
+B 161 124 257 132
+C 180 8 1 1 0 blk2_3.gex
+C 261 95 1 1 0 m1m2_via.gex
+C 261 87 1 1 0 m1m2_via.gex
+C 30 104 1 1 1 GTAP.gex
+C -14 40 1 1 0 GTAP.gex
+C -14 60 1 1 0 GTAP.gex
+C 0 0 1 1 0 blk2_2.gex
+C 184 104 1 1 1 GTAP.gex
+C 248 104 1 1 1 GTAP.gex

@@ -1,0 +1,32 @@
+; structure creation     : 11/5/2015 (13:40:33)
+; structure modification : 11/5/2015 (13:40:33)
+; structure name : Limitter3.gex
+L 2
+B 4 1 116 81
+L 3
+B 6 3 114 79
+L 9
+B 7 4 113 14
+L 12
+B 55 80 75 86
+B 45 16 65 22
+B 111 16 120 76
+C 108 9 1 1 0 act_via.gex
+C 102 9 1 1 0 act_via.gex
+C 96 9 1 1 0 act_via.gex
+C 90 9 1 1 0 act_via.gex
+C 84 9 1 1 0 act_via.gex
+C 78 9 1 1 0 act_via.gex
+C 72 9 1 1 0 act_via.gex
+C 66 9 1 1 0 act_via.gex
+C 60 9 1 1 0 act_via.gex
+C 54 9 1 1 0 act_via.gex
+C 48 9 1 1 0 act_via.gex
+C 42 9 1 1 0 act_via.gex
+C 36 9 1 1 0 act_via.gex
+C 30 9 1 1 0 act_via.gex
+C 24 9 1 1 0 act_via.gex
+C 18 9 1 1 0 act_via.gex
+C 12 9 1 1 0 act_via.gex
+C -1 10 1 1 0 n50x4.gex
+C 121 92 1 1 2 n50x4.gex

@@ -1,0 +1,13 @@
+; structure creation     : 11/4/2016 (21:23:40)
+; structure modification : 11/4/2016 (21:23:40)
+; structure name : r40k.gex
+L 7
+B 17 144 33 150
+B 7 -3 23 3
+B -3 144 13 150
+B 27 3 33 144
+B 17 3 23 144
+B 7 3 13 144
+B -3 3 3 144
+C 0 0 1 1 1 poly_via.gex
+C 30 0 1 1 1 poly_via.gex

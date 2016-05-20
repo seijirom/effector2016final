@@ -1,0 +1,44 @@
+; structure creation     : 11/5/2015 (11:18:6)
+; structure modification : 11/5/2015 (11:18:6)
+; structure name : SW.gex
+L 1
+B -30 51 16 71
+L 2
+B -30 31 16 51
+L 3
+B -28 33 14 49
+B -28 53 14 69
+L 4
+B 5 36 11 46
+B -15 38 1 44
+B -25 56 -19 66
+B -15 56 1 66
+L 7
+B -8 31 -6 46
+B -8 54 -6 71
+L 8
+B -17 34 3 48
+B -27 54 -17 68
+L 9
+B 3 34 13 48
+B -17 54 3 68
+L 10
+B -13 40 -11 42
+B -3 40 -1 42
+B -13 58 -11 60
+B -3 58 -1 60
+B -13 62 -11 64
+B -3 62 -1 64
+L 12
+B -5 38 1 66
+B -15 38 -9 66
+B -15 38 -9 44
+B -15 38 -9 44
+C -11 28 1 1 0 poly_via.gex
+C -3 74 1 1 0 poly_via.gex
+C 8 39 1 1 0 act_via.gex
+C 8 43 1 1 0 act_via.gex
+C -5 28 1 1 0 poly_via.gex
+C -22 59 1 1 0 act_via.gex
+C -22 63 1 1 0 act_via.gex
+C -9 74 1 1 0 poly_via.gex

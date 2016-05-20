@@ -1,0 +1,9 @@
+; structure creation     : 3/4/2015 (20:48:37)
+; structure modification : 3/4/2015 (20:48:37)
+; structure name : act_via.gex
+L 4
+B -3 -3 3 3
+L 10
+B -1 -1 1 1
+L 12
+B -3 -3 3 3

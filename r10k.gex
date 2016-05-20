@@ -1,0 +1,7 @@
+; structure creation     : 30/5/2015 (14:7:7)
+; structure modification : 30/5/2015 (14:7:7)
+; structure name : r10k.gex
+L 7
+B 3 -3 144 3
+C 147 0 1 1 0 poly_via.gex
+C 0 0 1 1 0 poly_via.gex

@@ -1,0 +1,32 @@
+; structure creation     : 14/4/2016 (21:4:33)
+; structure modification : 14/4/2016 (21:4:33)
+; structure name : Limitter2016.gex
+L 12
+B 13 1 102 11
+B 64 175 72 195
+B 50 321 102 331
+B 23 274 50 331
+B 56 91 102 99
+B 94 217 102 242
+B 64 242 102 250
+B 72 187 102 195
+B 64 129 72 145
+B 72 129 102 137
+; [strans] magnification(x 1.6) not supported
+L 14
+B 69 45 77 112
+B 69 210 77 281
+B 77 272 102 281
+B 77 45 102 53
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+; [strans] magnification(x 0.8) not supported
+C -14 63 1 1 0 INVSWs.gex
+C 102 1 1 1 0 Limitter_all2016.gex

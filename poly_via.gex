@@ -1,0 +1,9 @@
+; structure creation     : 12/4/2015 (20:4:13)
+; structure modification : 12/4/2015 (20:4:13)
+; structure name : poly_via.gex
+L 7
+B -3 -3 3 3
+L 11
+B -1 -1 1 1
+L 12
+B -3 -3 3 3

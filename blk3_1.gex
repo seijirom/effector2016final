@@ -1,0 +1,50 @@
+; structure creation     : 30/5/2015 (13:37:5)
+; structure modification : 30/5/2015 (13:37:5)
+; structure name : blk3_1.gex
+L 7
+B 12 59 36 65
+B 64 59 88 65
+B 103 59 119 65
+L 12
+B 120 55 126 73
+B 16 0 32 55
+B 5 55 11 60
+B 37 55 43 60
+B 68 0 84 55
+B 47 0 53 5
+B 99 0 105 5
+B 99 0 115 55
+B 5 59 43 65
+B 57 54 63 78
+B 89 54 95 78
+B 57 78 95 84
+B 5 65 43 73
+B 103 59 115 73
+L 14
+B 5 65 115 73
+C 112 62 1 1 0 poly_via.gex
+C 9 69 1 1 0 m1m2_via.gex
+C 23 69 1 1 0 m1m2_via.gex
+C 31 69 1 1 0 m1m2_via.gex
+C 39 69 1 1 0 m1m2_via.gex
+C 81 62 1 1 0 poly_via.gex
+C 71 62 1 1 0 poly_via.gex
+C 80 69 1 1 0 m1m2_via.gex
+C 72 69 1 1 0 m1m2_via.gex
+C 76 62 1 1 0 poly_via.gex
+C 33 62 1 1 0 poly_via.gex
+C 24 62 1 1 0 poly_via.gex
+C 15 62 1 1 0 poly_via.gex
+C 52 0 1 1 0 n3x50.gex
+C 73 0 1 1 0 n3x50.gex
+C 42 0 1 1 0 GTAP.gex
+C 42 16 1 1 0 GTAP.gex
+C 0 0 1 1 0 n3x50.gex
+C 21 0 1 1 0 n3x50.gex
+C 106 62 1 1 0 poly_via.gex
+C 104 0 1 1 0 n3x50.gex
+C 94 16 1 1 0 GTAP.gex
+C 94 0 1 1 0 GTAP.gex
+C 111 69 1 1 0 m1m2_via.gex
+C 103 69 1 1 0 m1m2_via.gex
+C 123 69 1 1 0 m1m2_via.gex
