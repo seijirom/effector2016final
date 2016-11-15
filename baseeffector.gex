@@ -1,0 +1,104 @@
+h 6 -6 1064 1035
+l 12
+b 140 776 10 10
+b 118 323 22 463
+b 1024 0 46 339
+b 576 101 4 6
+b 570 458 6 208
+b 570 452 10 6
+b 555 320 33 10
+b 555 351 33 10
+b 555 0 33 10
+b 555 671 33 10
+b 899 38 8 36
+b 900 609 8 40
+b 172 101 26 6
+b 560 502 6 28
+b 133 334 455 8
+b 977 0 47 64
+b 1024 339 46 76
+b 977 351 47 64
+b 594 339 430 12
+b 118 313 30 10
+t 122 776 10 0 Vdd
+t 41 2 10 0 Gnd
+l 14
+b 558 342 8 166
+b 195 330 8 12
+b 568 199 8 143
+b 203 334 365 8
+b 568 -2 8 94
+b 568 190 12 9
+b 568 666 8 30
+b 580 -2 8 96
+b 580 550 8 140
+b 1008 260 22 8
+b 1008 195 22 8
+b 1004 130 26 8
+b 899 -6 8 28
+b 1008 611 22 8
+b 1008 546 22 8
+b 1004 481 26 8
+b 900 661 8 27
+b 387 671 10 12
+b 387 314 177 8
+b 556 -2 8 324
+b 580 334 8 105
+b 117 330 16 8
+t 129 783 10 0 Vinop1-
+t 134 763 10 3 Vbiasop1
+t 575 -1 10 1 Vb2cont
+t 569 695 10 0 Vb1cont
+t 581 0 10 0 VN
+t 580 684 10 0 Vind1
+t 900 -2 10 0 Vinoutd2
+t 1020 260 10 0 Dsw4
+t 1020 196 10 0 Dsw5
+t 1020 131 10 0 Dsw6
+t 1021 612 10 0 Dsw1
+t 1021 547 10 0 Dsw2
+t 1021 483 10 0 Dsw3
+t 902 683 10 0 Voutd1
+t 6 222 10 1 Vbiasop2
+t 387 678 10 0 Voutop1
+t 195 679 10 0 Vinop1+
+t 562 1 10 1 Voutop2
+c 194 233 1 1 0 cap3p_new.gex
+c 203 677 1 1 0 cap3p_new.gex
+c 205 792 1 1 0 cap3p_new.gex
+c 150 456 1 1 0 opamp_new.gex
+c 572 96 1 1 0 m1m2_via.gex
+c 572 104 1 1 0 m1m2_via.gex
+c 572 654 1 1 0 m1m2_via.gex
+c 572 662 1 1 0 m1m2_via.gex
+c 988 334 1 1 1 GTAP.gex
+c 956 334 1 1 1 GTAP.gex
+c 924 334 1 1 1 GTAP.gex
+c 892 334 1 1 1 GTAP.gex
+c 860 334 1 1 1 GTAP.gex
+c 828 334 1 1 1 GTAP.gex
+c 796 334 1 1 1 GTAP.gex
+c 764 334 1 1 1 GTAP.gex
+c 732 334 1 1 1 GTAP.gex
+c 700 334 1 1 1 GTAP.gex
+c 668 334 1 1 1 GTAP.gex
+c 636 334 1 1 1 GTAP.gex
+c 896 613 1 1 0 m1m2_via.gex
+c 990 -1 1 1 6 Limitter2016.gex
+c 903 62 1 1 0 m1m2_via.gex
+c 903 70 1 1 0 m1m2_via.gex
+c 903 26 1 1 0 m1m2_via.gex
+c 903 34 1 1 0 m1m2_via.gex
+c 990 350 1 1 6 Limitter2016.gex
+c 904 613 1 1 0 m1m2_via.gex
+c 904 649 1 1 0 m1m2_via.gex
+c 904 657 1 1 0 m1m2_via.gex
+c 562 512 1 1 0 m1m2_via.gex
+c 562 520 1 1 0 m1m2_via.gex
+c 563 358 1 1 1 r10k.gex
+c 563 527 1 1 1 r10k.gex
+c 129 338 1 1 0 m1m2_via.gex
+c 121 338 1 1 0 m1m2_via.gex
+c 584 338 1 1 0 m1m2_via.gex
+c 147 -2 1 1 0 opamp_new.gex
+c 581 697 1 1 0 opamp_new.gex
